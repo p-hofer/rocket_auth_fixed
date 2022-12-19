@@ -20,7 +20,7 @@ For more information visit rocket's [configuration guide](https://rocket.rs/v0.5
 To use `rocket_auth` include it as a dependency in your Cargo.toml file:
 ```ini
 [dependencies.rocket_auth]
-version = "0.4.0"
+git = "https://github.com/hack-wrench/rocket_auth_fixed"
 features = ["sqlx-sqlite"]
 ```
 # Quick overview
