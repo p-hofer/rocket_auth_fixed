@@ -89,7 +89,7 @@ features = ["tera"]
 
 
 [dev-dependencies.sqlx]
-version = "0.6.0"
+version = "0.6"
 features = ["runtime-tokio-rustls"]
 
 [dev-dependencies.rocket_auth]
